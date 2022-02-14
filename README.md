@@ -41,7 +41,7 @@ If you use or build on our work, please consider citing us:
 ```bibtex
 @inproceedings{gea2021,
     title={Guided Evolution for Neural Architecture Search},
-    author={Vasco Lopes and Miguel Santos and Bruno Degardin and Luís A Alexandre},
+    author={Vasco Lopes and Miguel Santos and Bruno Degardin and Luís A. Alexandre},
     year={2021},
     booktitle={Advances in Neural Information Processing Systems 35 (NeurIPS) - New In ML}
 }
